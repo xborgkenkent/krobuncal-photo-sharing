@@ -2185,3 +2185,1373 @@ INFO: Schema "PUBLIC" is up to date. No migration necessary.
 2023.09.08 08:07:50 INFO  time: compiled root in 1.69s
 Sep 08, 2023 8:08:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2023.09.08 08:11:11 INFO  
+2023.09.08 08:11:11 INFO  Template applied in /Users/krobuncal/Documents/./krobuncal-bbs-app
+2023.09.08 08:11:11 INFO  
+2023.09.08 08:11:11 INFO  time: ran 'giter8.Giter8' in 8.79s
+2023.09.08 08:11:22 INFO  Shutting down server
+2023.09.08 08:11:22 INFO  shutting down Metals
+2023.09.08 08:11:22 INFO  Shut down connection with build server.
+2023.09.08 08:11:22 INFO  Shut down connection with build server.
+2023.09.08 08:11:22 INFO  Shut down connection with build server.
+2023.09.08 08:11:22 INFO  Exiting server
+2023.09.25 08:25:01 INFO  Started: Metals version 1.0.1 in folders '/Users/krobuncal/Documents/krobuncal-photo-sharing' for client Visual Studio Code 1.80.2.
+Sep 25, 2023 8:25:01 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.21.2 by Redgate
+Sep 25, 2023 8:25:01 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Sep 25, 2023 8:25:01 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Sep 25, 2023 8:25:02 AM org.flywaydb.core.FlywayExecutor execute
+INFO: Database: jdbc:h2:file:/Users/krobuncal/Documents/krobuncal-photo-sharing/.metals/metals (H2 2.1)
+Sep 25, 2023 8:25:02 AM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.074s)
+Sep 25, 2023 8:25:02 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Sep 25, 2023 8:25:02 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.09.25 08:25:03 INFO  time: initialize in 2.03s
+2023.09.25 08:25:06 INFO  Attempting to connect to the build server...
+2023.09.25 08:25:06 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home defined at /Users/krobuncal/.bloop/bloop.json
+2023.09.25 08:25:06 INFO  skipping build import with status 'Installed'
+2023.09.25 08:25:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/krobuncal/Documents/krobuncal-photo-sharing/.metals/bsp.trace.json or /Users/krobuncal/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.09.25 08:25:08 INFO  Attempting to connect to the build server...
+2023.09.25 08:25:08 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home defined at /Users/krobuncal/.bloop/bloop.json
+2023.09.25 08:25:08 INFO  Attempting to connect to the build server...
+2023.09.25 08:25:08 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home defined at /Users/krobuncal/.bloop/bloop.json
+2023.09.25 08:25:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/krobuncal/Documents/krobuncal-photo-sharing/project/project/.metals/bsp.trace.json or /Users/krobuncal/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.09.25 08:25:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/krobuncal/Documents/krobuncal-photo-sharing/project/.metals/bsp.trace.json or /Users/krobuncal/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.09.25 08:25:08 INFO  time: Connected to build server in 2.14s
+2023.09.25 08:25:08 INFO  Connected to Build server: Bloop v1.5.8
+2023.09.25 08:25:14 INFO  no build target found for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.0
+Sep 25, 2023 8:25:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2023.09.25 08:25:15 INFO  time: code lens generation in 9.18s
+2023.09.25 08:25:15 INFO  time: Imported build in 0.28s
+2023.09.25 08:25:17 INFO  no build target found for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.0
+2023.09.25 08:25:23 INFO  time: code lens generation in 8.29s
+2023.09.25 08:25:29 INFO  time: indexed workspace in 14s
+2023.09.25 08:25:30 INFO  compiling root (3 scala sources)
+2023.09.25 08:25:33 INFO  time: compiled root in 3.02s
+2023.09.25 08:25:33 INFO  compiling root (3 scala sources)
+2023.09.25 08:25:34 INFO  time: compiled root in 0.94s
+2023.09.25 08:28:28 INFO  time: code lens generation in 10s
+2023.09.25 08:29:03 INFO  running '/opt/local/sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/qr/xxsj3hbx5k7fbqz50mk_xtnh0000gp/T/metals5533886517005867618/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.09.25 08:29:07 INFO  [info] welcome to sbt 1.7.2 (Amazon.com Inc. Java 1.8.0_382)
+2023.09.25 08:29:10 INFO  [info] loading settings for project krobuncal-photo-sharing-build-build-build from metals.sbt ...
+2023.09.25 08:29:12 INFO  [info] loading project definition from /Users/krobuncal/Documents/krobuncal-photo-sharing/project/project/project
+2023.09.25 08:29:14 INFO  [info] loading settings for project krobuncal-photo-sharing-build-build from metals.sbt ...
+2023.09.25 08:29:14 INFO  [info] loading project definition from /Users/krobuncal/Documents/krobuncal-photo-sharing/project/project
+2023.09.25 08:29:19 INFO  [success] Generated .bloop/krobuncal-photo-sharing-build-build.json
+2023.09.25 08:29:19 INFO  [success] Total time: 4 s, completed 09 25, 23 8:29:19 AM
+2023.09.25 08:29:19 INFO  [info] loading settings for project krobuncal-photo-sharing-build from metals.sbt,plugins.sbt ...
+2023.09.25 08:29:20 INFO  [info] loading project definition from /Users/krobuncal/Documents/krobuncal-photo-sharing/project
+2023.09.25 08:29:22 INFO  [success] Generated .bloop/krobuncal-photo-sharing-build.json
+2023.09.25 08:29:22 INFO  [success] Total time: 2 s, completed 09 25, 23 8:29:23 AM
+2023.09.25 08:29:28 INFO  [info] loading settings for project root from build.sbt ...
+2023.09.25 08:29:28 INFO  [info]   __              __
+2023.09.25 08:29:28 INFO  [info]   \ \     ____   / /____ _ __  __
+2023.09.25 08:29:28 INFO  [info]    \ \   / __ \ / // __ `// / / /
+2023.09.25 08:29:28 INFO  [info]    / /  / /_/ // // /_/ // /_/ /
+2023.09.25 08:29:28 INFO  [info]   /_/  / .___//_/ \__,_/ \__, /
+2023.09.25 08:29:28 INFO  [info]       /_/               /____/
+2023.09.25 08:29:28 INFO  [info] 
+2023.09.25 08:29:28 INFO  [info] Version 2.8.20 running Java 1.8.0_382
+2023.09.25 08:29:28 INFO  [info] 
+2023.09.25 08:29:28 INFO  [info] Play is run entirely by the community. Please consider contributing and/or donating:
+2023.09.25 08:29:28 INFO  [info] https://www.playframework.com/sponsors
+2023.09.25 08:29:28 INFO  [info] 
+2023.09.25 08:29:31 INFO  compiling root (7 scala sources and 1 java source)
+2023.09.25 08:29:34 INFO  time: compiled root in 2.23s
+2023.09.25 08:29:34 INFO  compiling root (9 scala sources and 1 java source)
+2023.09.25 08:29:38 INFO  [success] Generated .bloop/root.json
+2023.09.25 08:29:38 INFO  [success] Generated .bloop/root-test.json
+2023.09.25 08:29:38 INFO  [success] Total time: 8 s, completed 09 25, 23 8:29:38 AM
+2023.09.25 08:29:38 INFO  time: ran 'sbt bloopInstall' in 35s
+2023.09.25 08:29:38 INFO  Disconnecting from Bloop session...
+2023.09.25 08:29:38 INFO  Shut down connection with build server.
+2023.09.25 08:29:38 INFO  Shut down connection with build server.
+2023.09.25 08:29:38 INFO  Shut down connection with build server.
+Sep 25, 2023 8:29:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+INFO: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.nio.channels.ClosedChannelException
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:44)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:126)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:180)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:150)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$register$2(BuildServerConnection.scala:349)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$register$1(BuildServerConnection.scala:349)
+	at scala.meta.internal.metals.Cancelable$$anon$1.cancel(Cancelable.scala:18)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:286)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:122)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:114)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SinkChannelImpl.ensureOpen(SinkChannelImpl.java:154)
+	at sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:158)
+	at java.nio.channels.Channels.writeFullyImpl(Channels.java:78)
+	at java.nio.channels.Channels.writeFully(Channels.java:98)
+	at java.nio.channels.Channels.access$000(Channels.java:61)
+	at java.nio.channels.Channels$1.write(Channels.java:174)
+	at java.io.OutputStream.write(OutputStream.java:75)
+	at java.nio.channels.Channels$1.write(Channels.java:155)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:125)
+	at java.io.FilterOutputStream.write(FilterOutputStream.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2023.09.25 08:29:39 INFO  Attempting to connect to the build server...
+2023.09.25 08:29:39 INFO  Cancelling compilation on Bloop server
+2023.09.25 08:29:39 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home defined at /Users/krobuncal/.bloop/bloop.json
+2023.09.25 08:29:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/krobuncal/Documents/krobuncal-photo-sharing/.metals/bsp.trace.json or /Users/krobuncal/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.09.25 08:29:39 INFO  Attempting to connect to the build server...
+2023.09.25 08:29:39 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home defined at /Users/krobuncal/.bloop/bloop.json
+2023.09.25 08:29:39 INFO  Attempting to connect to the build server...
+2023.09.25 08:29:39 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home defined at /Users/krobuncal/.bloop/bloop.json
+2023.09.25 08:29:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/krobuncal/Documents/krobuncal-photo-sharing/project/project/.metals/bsp.trace.json or /Users/krobuncal/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.09.25 08:29:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/krobuncal/Documents/krobuncal-photo-sharing/project/.metals/bsp.trace.json or /Users/krobuncal/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.09.25 08:29:39 INFO  time: Connected to build server in 0.17s
+2023.09.25 08:29:39 INFO  Connected to Build server: Bloop v1.5.8
+2023.09.25 08:29:42 INFO  time: indexed workspace in 3.33s
+2023.09.25 08:29:42 INFO  compiling root (9 scala sources and 1 java source)
+2023.09.25 08:29:47 INFO  time: code lens generation in 3.98s
+2023.09.25 08:29:50 INFO  time: compiled root in 8.23s
+2023.09.25 08:29:50 INFO  compiling root-test (1 scala source)
+2023.09.25 08:29:52 INFO  time: compiled root-test in 1.92s
+2023.09.25 08:32:08 INFO  compiling root (2 scala sources)
+2023.09.25 08:32:11 INFO  time: compiled root in 3.08s
+2023.09.25 08:32:14 INFO  compiling root (3 scala sources)
+2023.09.25 08:32:18 INFO  time: compiled root in 4.21s
+2023.09.25 08:32:43 INFO  compiling root (1 scala source)
+2023.09.25 08:32:45 INFO  time: compiled root in 1.32s
+2023.09.25 08:32:45 INFO  compiling root (2 scala sources)
+2023.09.25 08:32:45 INFO  time: compiled root in 0.64s
+2023.09.25 08:33:00 INFO  compiling root (2 scala sources)
+2023.09.25 08:33:00 INFO  time: compiled root in 0.69s
+2023.09.25 08:33:03 INFO  compiling root (2 scala sources)
+2023.09.25 08:33:03 INFO  time: compiled root in 0.51s
+2023.09.25 08:33:11 INFO  compiling root (2 scala sources)
+2023.09.25 08:33:11 INFO  time: compiled root in 0.55s
+2023.09.25 08:33:24 INFO  compiling root (2 scala sources)
+2023.09.25 08:33:24 INFO  time: compiled root in 0.58s
+2023.09.25 08:33:24 INFO  compiling root (2 scala sources)
+2023.09.25 08:33:25 INFO  time: compiled root in 0.46s
+2023.09.25 08:33:41 INFO  running '/opt/local/sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/qr/xxsj3hbx5k7fbqz50mk_xtnh0000gp/T/metals6689754739159925625/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.09.25 08:33:45 INFO  [info] welcome to sbt 1.7.2 (Amazon.com Inc. Java 1.8.0_382)
+2023.09.25 08:33:47 INFO  [info] loading settings for project krobuncal-photo-sharing-build-build-build from metals.sbt ...
+2023.09.25 08:33:49 INFO  [info] loading project definition from /Users/krobuncal/Documents/krobuncal-photo-sharing/project/project/project
+2023.09.25 08:33:52 INFO  [info] loading settings for project krobuncal-photo-sharing-build-build from metals.sbt ...
+2023.09.25 08:33:52 INFO  [info] loading project definition from /Users/krobuncal/Documents/krobuncal-photo-sharing/project/project
+2023.09.25 08:33:56 INFO  [success] Generated .bloop/krobuncal-photo-sharing-build-build.json
+2023.09.25 08:33:56 INFO  [success] Total time: 4 s, completed 09 25, 23 8:33:57 AM
+2023.09.25 08:33:56 INFO  [info] loading settings for project krobuncal-photo-sharing-build from metals.sbt,plugins.sbt ...
+2023.09.25 08:33:58 INFO  [info] loading project definition from /Users/krobuncal/Documents/krobuncal-photo-sharing/project
+2023.09.25 08:34:00 INFO  [success] Generated .bloop/krobuncal-photo-sharing-build.json
+2023.09.25 08:34:00 INFO  [success] Total time: 3 s, completed 09 25, 23 8:34:01 AM
+2023.09.25 08:34:02 INFO  [info] loading settings for project root from build.sbt ...
+2023.09.25 08:34:02 INFO  [info]   __              __
+2023.09.25 08:34:02 INFO  [info]   \ \     ____   / /____ _ __  __
+2023.09.25 08:34:02 INFO  [info]    \ \   / __ \ / // __ `// / / /
+2023.09.25 08:34:02 INFO  [info]    / /  / /_/ // // /_/ // /_/ /
+2023.09.25 08:34:02 INFO  [info]   /_/  / .___//_/ \__,_/ \__, /
+2023.09.25 08:34:02 INFO  [info]       /_/               /____/
+2023.09.25 08:34:02 INFO  [info] 
+2023.09.25 08:34:02 INFO  [info] Version 2.8.20 running Java 1.8.0_382
+2023.09.25 08:34:02 INFO  [info] 
+2023.09.25 08:34:02 INFO  [info] Play is run entirely by the community. Please consider contributing and/or donating:
+2023.09.25 08:34:02 INFO  [info] https://www.playframework.com/sponsors
+2023.09.25 08:34:02 INFO  [info] 
+2023.09.25 08:34:05 INFO  [success] Generated .bloop/root-test.json
+2023.09.25 08:34:05 INFO  [success] Generated .bloop/root.json
+2023.09.25 08:34:05 INFO  [success] Total time: 2 s, completed 09 25, 23 8:34:06 AM
+2023.09.25 08:34:06 INFO  time: ran 'sbt bloopInstall' in 24s
+2023.09.25 08:34:06 INFO  Disconnecting from Bloop session...
+2023.09.25 08:34:06 INFO  Shut down connection with build server.
+2023.09.25 08:34:06 INFO  Shut down connection with build server.
+2023.09.25 08:34:06 INFO  Shut down connection with build server.
+2023.09.25 08:34:06 INFO  Attempting to connect to the build server...
+2023.09.25 08:34:06 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home defined at /Users/krobuncal/.bloop/bloop.json
+2023.09.25 08:34:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/krobuncal/Documents/krobuncal-photo-sharing/.metals/bsp.trace.json or /Users/krobuncal/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.09.25 08:34:06 INFO  Attempting to connect to the build server...
+2023.09.25 08:34:06 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home defined at /Users/krobuncal/.bloop/bloop.json
+2023.09.25 08:34:06 INFO  Attempting to connect to the build server...
+2023.09.25 08:34:06 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home defined at /Users/krobuncal/.bloop/bloop.json
+2023.09.25 08:34:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/krobuncal/Documents/krobuncal-photo-sharing/project/project/.metals/bsp.trace.json or /Users/krobuncal/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.09.25 08:34:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/krobuncal/Documents/krobuncal-photo-sharing/project/.metals/bsp.trace.json or /Users/krobuncal/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.09.25 08:34:06 INFO  time: Connected to build server in 0.43s
+2023.09.25 08:34:06 INFO  Connected to Build server: Bloop v1.5.8
+2023.09.25 08:34:08 INFO  time: indexed workspace in 2.05s
+2023.09.25 08:34:09 INFO  compiling root (2 scala sources)
+2023.09.25 08:34:11 INFO  time: compiled root in 2.26s
+2023.09.25 08:34:21 INFO  compiling root (2 scala sources)
+2023.09.25 08:34:21 INFO  time: compiled root in 0.78s
+2023.09.25 08:34:43 INFO  compiling root (3 scala sources)
+2023.09.25 08:34:43 INFO  time: compiled root in 0.4s
+2023.09.25 08:34:46 INFO  compiling root (4 scala sources)
+2023.09.25 08:34:49 INFO  time: compiled root in 2.96s
+2023.09.25 08:35:24 INFO  compiling root (1 scala source)
+2023.09.25 08:35:25 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 08:35:26 INFO  time: compiled root in 2.45s
+2023.09.25 08:36:06 INFO  compiling root (1 scala source)
+2023.09.25 08:36:08 INFO  time: compiled root in 1.21s
+2023.09.25 08:36:13 INFO  compiling root (1 scala source)
+2023.09.25 08:36:14 INFO  time: compiled root in 1.28s
+Sep 25, 2023 8:37:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 443
+Sep 25, 2023 8:37:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 444
+Sep 25, 2023 8:37:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 508
+Sep 25, 2023 8:37:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 509
+Sep 25, 2023 8:37:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 534
+something's wrong: no file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala in play.api.db.slick.HasDatabaseConfigProvider[<error>]RangePosition(file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala, 243, 243, 277)
+2023.09.25 08:38:09 INFO  compiling root (1 scala source)
+2023.09.25 08:38:09 INFO  time: compiled root in 0.25s
+2023.09.25 08:38:19 INFO  compiling root (1 scala source)
+2023.09.25 08:38:20 INFO  time: compiled root in 1.17s
+something's wrong: no file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala in slick.jdbc.PostgresProfile.api.Table[<error>]RangePosition(file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala, 391, 391, 398)
+2023.09.25 08:38:45 INFO  compiling root (1 scala source)
+2023.09.25 08:38:45 INFO  time: compiled root in 0.19s
+2023.09.25 08:38:51 INFO  compiling root (1 scala source)
+2023.09.25 08:38:51 INFO  time: compiled root in 0.2s
+Sep 25, 2023 8:40:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 954
+Sep 25, 2023 8:40:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 967
+2023.09.25 08:40:43 INFO  compiling root (1 scala source)
+2023.09.25 08:40:43 INFO  time: compiled root in 0.31s
+Sep 25, 2023 8:40:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1110
+something's wrong: no file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala in Option[<error>]RangePosition(file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala, 549, 549, 558)
+something's wrong: no file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala in Option[<error>]RangePosition(file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala, 549, 549, 565)
+something's wrong: no file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala in Option[<error>]RangePosition(file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala, 549, 549, 558)
+something's wrong: no file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala in Option[<error>]RangePosition(file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala, 549, 549, 563)
+something's wrong: no file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala in Option[<error>]RangePosition(file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala, 549, 549, 563)
+something's wrong: no file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala in Option[<error>]RangePosition(file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala, 549, 549, 563)
+Sep 25, 2023 8:44:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1441
+something's wrong: no file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala in slick.jdbc.PostgresProfile.api.Table[models.domain.Post]RangePosition(file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala, 417, 417, 428)
+something's wrong: no file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala in slick.jdbc.PostgresProfile.api.Table[models.domain.Post]RangePosition(file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala, 417, 417, 428)
+something's wrong: no file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala in slick.jdbc.PostgresProfile.api.Table[models.domain.Post]RangePosition(file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala, 417, 417, 428)
+2023.09.25 08:45:15 INFO  compiling root (1 scala source)
+2023.09.25 08:45:15 INFO  time: compiled root in 0.26s
+2023.09.25 08:45:19 INFO  compiling root (1 scala source)
+2023.09.25 08:45:21 INFO  time: compiled root in 1.78s
+2023.09.25 08:48:38 INFO  compiling root (2 scala sources)
+2023.09.25 08:48:38 INFO  time: compiled root in 0.41s
+2023.09.25 08:48:42 INFO  compiling root (2 scala sources)
+2023.09.25 08:48:44 INFO  time: compiled root in 1.77s
+2023.09.25 08:48:44 INFO  compiling root (2 scala sources)
+2023.09.25 08:48:44 INFO  time: compiled root in 0.67s
+2023.09.25 08:48:57 INFO  compiling root (2 scala sources)
+2023.09.25 08:48:57 INFO  time: compiled root in 0.53s
+2023.09.25 08:49:18 INFO  compiling root (2 scala sources)
+2023.09.25 08:49:18 INFO  time: compiled root in 0.45s
+2023.09.25 08:49:35 INFO  compiling root (2 scala sources)
+2023.09.25 08:49:35 INFO  time: compiled root in 0.22s
+2023.09.25 08:49:37 INFO  compiling root (2 scala sources)
+2023.09.25 08:49:37 INFO  time: compiled root in 0.5s
+2023.09.25 08:50:16 INFO  compiling root (2 scala sources)
+2023.09.25 08:50:16 INFO  Deduplicating compilation of root from bsp client 'Metals 1.0.1' (since 16m 11.214s)
+2023.09.25 08:50:16 INFO  compiling root (2 scala sources)
+Sep 25, 2023 8:50:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didClose",
+  "params": {
+    "textDocument": {
+      "uri": "jar:file%3A///opt/local/sdkman/candidates/java/current/src.zip%21/java/util/UUID.java"
+    }
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.NoClassDefFoundError: com/sun/source/tree/Tree
+	at scala.meta.internal.pc.JavaPresentationCompiler.<init>(JavaPresentationCompiler.scala:47)
+	at scala.meta.internal.metals.Compilers.loadJavaCompilerForTarget(Compilers.scala:925)
+	at scala.meta.internal.metals.Compilers.$anonfun$loadJavaCompiler$1(Compilers.scala:894)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.loadJavaCompiler(Compilers.scala:893)
+	at scala.meta.internal.metals.Compilers.fromBuildTarget$1(Compilers.scala:774)
+	at scala.meta.internal.metals.Compilers.loadCompiler(Compilers.scala:782)
+	at scala.meta.internal.metals.Compilers.didClose(Compilers.scala:215)
+	at scala.meta.internal.metals.MetalsLspService.didClose(MetalsLspService.scala:1122)
+	at scala.meta.internal.metals.WorkspaceLspService.didClose(WorkspaceLspService.scala:333)
+	at scala.meta.metals.lsp.DelegatingScalaService.didClose(DelegatingScalaService.scala:53)
+	... 16 more
+Caused by: java.lang.ClassNotFoundException: com.sun.source.tree.Tree
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 27 more
+
+2023.09.25 08:50:18 ERROR Can't run javac on /var/folders/qr/xxsj3hbx5k7fbqz50mk_xtnh0000gp/T/metals-javac-semanticdb5500167676696285904/source/UUID.java with options: [-cp
+/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.9.5/semanticdb-javac-0.9.5.jar:/Users/krobuncal/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.9.5/semanticdb-javac-0.9.5.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/twirl-api_2.13/1.5.1/twirl-api_2.13-1.5.1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-server_2.13/2.8.20/play-server_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-logback_2.13/2.8.20/play-logback_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-akka-http-server_2.13/2.8.20/play-akka-http-server_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/filters-helpers_2.13/2.8.20/filters-helpers_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-guice_2.13/2.8.20/play-guice_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-slick_2.13/5.0.0/play-slick_2.13-5.0.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/h2database/h2/1.4.200/h2-1.4.200.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.5.1/postgresql-42.5.1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/hasher_2.13/1.2.2/hasher_2.13-1.2.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/1.3.1/scala-xml_2.13-1.3.1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play_2.13/2.8.20/play_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.2.12/logback-classic-1.2.12.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-streams_2.13/2.8.20/play-streams_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.1.15/akka-http-core_2.13-10.1.15.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/inject/guice/4.2.3/guice-4.2.3.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/inject/extensions/guice-assistedinject/4.2.3/guice-assistedinject-4.2.3.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_2.13/3.3.2/slick_2.13-3.3.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-hikaricp_2.13/3.3.2/slick-hikaricp_2.13-3.3.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.13/2.8.0/play-jdbc-api_2.13-2.8.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/build-link/2.8.20/build-link-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/jul-to-slf4j/1.7.36/jul-to-slf4j-1.7.36.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.36/jcl-over-slf4j-1.7.36.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor-typed_2.13/2.6.21/akka-actor-typed_2.13-2.6.21.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.13/2.6.21/akka-slf4j_2.13-2.6.21.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-serialization-jackson_2.13/2.6.21/akka-serialization-jackson_2.13-2.6.21.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.4/jackson-core-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.4/jackson-annotations-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.4/jackson-datatype-jdk8-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.4/jackson-datatype-jsr310-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.4/jackson-databind-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-json_2.13/2.8.2/play-json_2.13-2.8.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/30.1.1-jre/guava-30.1.1-jre.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/jsonwebtoken/jjwt/0.9.1/jjwt-0.9.1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jakarta/transaction/jakarta.transaction-api/1.3.3/jakarta.transaction-api-1.3.3.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.2/scala-java8-compat_2.13-1.0.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/qos/logback/logback-core/1.2.12/logback-core-1.2.12.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.1.15/akka-parsing_2.13-10.1.15.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.0.0/scala-collection-compat_2.13-2.0.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.8.20/play-exceptions-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.4/jackson-module-parameter-names-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.11.4/jackson-dataformat-cbor-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.11.4/jackson-module-scala_2.13-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-functional_2.13/2.8.2/play-functional_2.13-2.8.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.12/scala-reflect-2.13.12.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.5.1/error_prone_annotations-2.5.1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.11.4/jackson-module-paranamer-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.jar
+-d
+/var/folders/qr/xxsj3hbx5k7fbqz50mk_xtnh0000gp/T/metals-javac-semanticdb5500167676696285904/target
+-Xplugin:semanticdb -sourceroot:/var/folders/qr/xxsj3hbx5k7fbqz50mk_xtnh0000gp/T/metals-javac-semanticdb5500167676696285904/source -targetroot:/var/folders/qr/xxsj3hbx5k7fbqz50mk_xtnh0000gp/T/metals-javac-semanticdb5500167676696285904/target]
+java.lang.NoClassDefFoundError: com/sun/source/util/JavacTask
+	at scala.meta.internal.pc.JavaMetalsGlobal$.compilationTask(JavaMetalsGlobal.scala:69)
+	at scala.meta.internal.metals.JavaInteractiveSemanticdb.textDocument(JavaInteractiveSemanticdb.scala:78)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$compile$2(InteractiveSemanticdbs.scala:166)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.compile(InteractiveSemanticdbs.scala:166)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$3(InteractiveSemanticdbs.scala:93)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$1(InteractiveSemanticdbs.scala:93)
+	at java.util.HashMap.compute(HashMap.java:1198)
+	at java.util.Collections$SynchronizedMap.compute(Collections.java:2684)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:89)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:63)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$didOpen$3(MetalsLspService.scala:1001)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.ClassNotFoundException: com.sun.source.util.JavacTask
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	at scala.meta.internal.pc.JavaMetalsGlobal$.compilationTask(JavaMetalsGlobal.scala:69)
+	at scala.meta.internal.metals.JavaInteractiveSemanticdb.textDocument(JavaInteractiveSemanticdb.scala:78)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$compile$2(InteractiveSemanticdbs.scala:166)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.compile(InteractiveSemanticdbs.scala:166)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$3(InteractiveSemanticdbs.scala:93)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$1(InteractiveSemanticdbs.scala:93)
+	at java.util.HashMap.compute(HashMap.java:1198)
+	at java.util.Collections$SynchronizedMap.compute(Collections.java:2684)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:89)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:63)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$didOpen$3(MetalsLspService.scala:1001)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.09.25 08:50:18 WARN  Running javac-semanticdb failed for jar:file:///opt/local/sdkman/candidates/java/current/src.zip!/java/util/UUID.java. Output:
+
+2023.09.25 08:50:23 INFO  time: compiled root in 6.11s
+2023.09.25 08:50:23 INFO  compiling root (2 scala sources)
+2023.09.25 08:50:23 INFO  time: compiled root in 367μs
+2023.09.25 08:50:23 INFO  compiling root (2 scala sources)
+2023.09.25 08:50:25 INFO  time: compiled root in 1.19s
+2023.09.25 08:50:25 INFO  compiling root (3 scala sources)
+2023.09.25 08:50:26 INFO  time: compiled root in 1.26s
+2023.09.25 08:50:29 INFO  compiling root (3 scala sources)
+2023.09.25 08:50:31 INFO  time: compiled root in 2.15s
+2023.09.25 08:50:38 INFO  compiling root (3 scala sources)
+2023.09.25 08:50:38 INFO  time: compiled root in 0.99s
+2023.09.25 08:50:46 INFO  compiling root (3 scala sources)
+2023.09.25 08:50:46 INFO  time: compiled root in 0.64s
+2023.09.25 08:50:58 INFO  compiling root (3 scala sources)
+2023.09.25 08:50:58 INFO  time: compiled root in 0.66s
+2023.09.25 08:51:12 INFO  compiling root (3 scala sources)
+2023.09.25 08:51:12 INFO  time: compiled root in 0.47s
+2023.09.25 08:51:30 INFO  compiling root (3 scala sources)
+2023.09.25 08:51:30 INFO  time: compiled root in 0.42s
+2023.09.25 08:51:50 INFO  compiling root (3 scala sources)
+2023.09.25 08:51:50 INFO  time: compiled root in 0.48s
+2023.09.25 08:51:53 INFO  compiling root (3 scala sources)
+2023.09.25 08:51:53 INFO  time: compiled root in 0.6s
+2023.09.25 08:52:18 INFO  compiling root (3 scala sources)
+2023.09.25 08:52:21 INFO  time: compiled root in 3.79s
+2023.09.25 08:52:21 INFO  compiling root (2 scala sources)
+2023.09.25 08:52:21 INFO  time: compiled root in 0.39s
+Sep 25, 2023 8:52:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2081
+2023.09.25 08:53:18 INFO  compiling root (3 scala sources)
+2023.09.25 08:53:20 INFO  time: compiled root in 2.23s
+2023.09.25 08:53:20 INFO  compiling root (2 scala sources)
+2023.09.25 08:53:20 INFO  time: compiled root in 0.24s
+2023.09.25 08:53:33 INFO  compiling root (3 scala sources)
+2023.09.25 08:53:36 INFO  time: compiled root in 2.44s
+2023.09.25 08:53:36 INFO  compiling root (2 scala sources)
+2023.09.25 08:53:36 INFO  time: compiled root in 0.32s
+2023.09.25 08:53:36 INFO  compiling root (3 scala sources)
+2023.09.25 08:53:37 INFO  time: compiled root in 1.29s
+2023.09.25 08:53:37 INFO  compiling root (2 scala sources)
+2023.09.25 08:53:37 INFO  time: compiled root in 0.31s
+2023.09.25 08:53:49 INFO  compiling root (3 scala sources)
+2023.09.25 08:53:52 INFO  time: compiled root in 2.79s
+2023.09.25 08:53:52 INFO  compiling root (2 scala sources)
+2023.09.25 08:53:52 INFO  time: compiled root in 0.39s
+2023.09.25 08:53:52 INFO  compiling root (3 scala sources)
+2023.09.25 08:53:54 INFO  time: compiled root in 1.82s
+2023.09.25 08:53:54 INFO  compiling root (2 scala sources)
+2023.09.25 08:53:54 INFO  time: compiled root in 0.29s
+2023.09.25 08:56:23 INFO  compiling root (4 scala sources)
+2023.09.25 08:56:23 INFO  time: compiled root in 0.98s
+2023.09.25 08:56:28 INFO  compiling root (4 scala sources)
+2023.09.25 08:56:28 INFO  time: compiled root in 0.47s
+something's wrong: no file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala in Array[<error>]RangePosition(file:///Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala, 545, 545, 587)
+2023.09.25 08:56:40 INFO  compiling root (4 scala sources)
+2023.09.25 08:56:43 INFO  time: compiled root in 2.88s
+2023.09.25 08:56:43 INFO  compiling root (2 scala sources)
+2023.09.25 08:56:43 INFO  time: compiled root in 0.36s
+2023.09.25 09:00:38 INFO  compiling root (5 scala sources)
+2023.09.25 09:00:42 INFO  time: compiled root in 3.8s
+2023.09.25 09:00:42 INFO  compiling root (2 scala sources)
+2023.09.25 09:00:42 INFO  time: compiled root in 0.31s
+2023.09.25 09:00:42 INFO  compiling root (5 scala sources)
+2023.09.25 09:00:44 INFO  time: compiled root in 1.98s
+2023.09.25 09:00:44 INFO  compiling root (2 scala sources)
+2023.09.25 09:00:44 INFO  time: compiled root in 0.97s
+2023.09.25 09:00:45 INFO  compiling root (5 scala sources)
+2023.09.25 09:00:47 INFO  time: compiled root in 1.49s
+2023.09.25 09:00:47 INFO  compiling root (2 scala sources)
+2023.09.25 09:00:47 INFO  time: compiled root in 0.34s
+2023.09.25 09:00:47 INFO  compiling root (5 scala sources)
+2023.09.25 09:00:50 INFO  time: compiled root in 2.47s
+2023.09.25 09:00:50 INFO  compiling root (2 scala sources)
+2023.09.25 09:00:50 INFO  time: compiled root in 0.26s
+2023.09.25 09:00:50 INFO  compiling root (5 scala sources)
+2023.09.25 09:00:51 INFO  time: compiled root in 1.03s
+2023.09.25 09:00:51 INFO  compiling root (2 scala sources)
+2023.09.25 09:00:51 INFO  time: compiled root in 0.26s
+2023.09.25 09:01:29 INFO  compiling root (5 scala sources)
+2023.09.25 09:01:32 INFO  time: compiled root in 3.73s
+2023.09.25 09:01:32 INFO  compiling root (2 scala sources)
+2023.09.25 09:01:32 INFO  time: compiled root in 0.35s
+2023.09.25 09:01:37 INFO  compiling root (6 scala sources)
+2023.09.25 09:01:41 INFO  time: compiled root in 3.59s
+2023.09.25 09:01:41 INFO  compiling root (2 scala sources)
+2023.09.25 09:01:41 INFO  time: compiled root in 0.39s
+2023.09.25 09:01:41 INFO  compiling root (6 scala sources)
+2023.09.25 09:01:43 INFO  time: compiled root in 1.96s
+2023.09.25 09:01:43 INFO  compiling root (2 scala sources)
+2023.09.25 09:01:43 INFO  time: compiled root in 0.84s
+Sep 25, 2023 9:02:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3085
+2023.09.25 09:03:32 INFO  compiling root (6 scala sources)
+2023.09.25 09:03:32 INFO  time: compiled root in 0.54s
+2023.09.25 09:03:53 INFO  compiling root (6 scala sources)
+2023.09.25 09:03:56 INFO  time: compiled root in 2.58s
+2023.09.25 09:03:56 INFO  compiling root (2 scala sources)
+2023.09.25 09:03:56 INFO  time: compiled root in 0.19s
+2023.09.25 09:04:02 INFO  compiling root (6 scala sources)
+2023.09.25 09:04:05 INFO  time: compiled root in 3.13s
+2023.09.25 09:04:05 INFO  compiling root (2 scala sources)
+2023.09.25 09:04:05 INFO  time: compiled root in 0.53s
+2023.09.25 09:04:05 INFO  compiling root (6 scala sources)
+2023.09.25 09:04:07 INFO  time: compiled root in 1.59s
+2023.09.25 09:04:07 INFO  compiling root (2 scala sources)
+2023.09.25 09:04:07 INFO  time: compiled root in 0.37s
+2023.09.25 09:05:14 INFO  compiling root (6 scala sources)
+2023.09.25 09:05:19 INFO  time: compiled root in 4.97s
+2023.09.25 09:05:19 INFO  compiling root (2 scala sources)
+2023.09.25 09:05:19 INFO  time: compiled root in 0.47s
+Sep 25, 2023 9:08:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3702
+2023.09.25 09:08:13 INFO  compiling root (6 scala sources)
+2023.09.25 09:08:13 INFO  time: compiled root in 0.29s
+2023.09.25 09:08:15 INFO  compiling root (6 scala sources)
+2023.09.25 09:08:15 INFO  time: compiled root in 0.53s
+2023.09.25 09:08:26 INFO  compiling root (6 scala sources)
+2023.09.25 09:08:26 INFO  time: compiled root in 0.68s
+Sep 25, 2023 9:08:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3839
+Sep 25, 2023 9:08:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3860
+2023.09.25 09:09:13 INFO  compiling root (6 scala sources)
+2023.09.25 09:09:13 INFO  time: compiled root in 0.36s
+2023.09.25 09:10:03 INFO  compiling root (6 scala sources)
+2023.09.25 09:10:03 INFO  time: compiled root in 0.83s
+Sep 25, 2023 9:10:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4089
+2023.09.25 09:10:43 INFO  compiling root (6 scala sources)
+2023.09.25 09:10:43 INFO  time: compiled root in 0.91s
+2023.09.25 09:11:11 INFO  running '/opt/local/sdkman/candidates/java/current/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/qr/xxsj3hbx5k7fbqz50mk_xtnh0000gp/T/metals4598023243598243999/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.09.25 09:11:15 INFO  [info] welcome to sbt 1.7.2 (Amazon.com Inc. Java 1.8.0_382)
+2023.09.25 09:11:18 INFO  compiling root (6 scala sources)
+2023.09.25 09:11:19 INFO  [info] loading settings for project krobuncal-photo-sharing-build-build-build from metals.sbt ...
+2023.09.25 09:11:20 INFO  time: compiled root in 2.07s
+2023.09.25 09:11:22 INFO  [info] loading project definition from /Users/krobuncal/Documents/krobuncal-photo-sharing/project/project/project
+2023.09.25 09:11:24 INFO  [info] loading settings for project krobuncal-photo-sharing-build-build from metals.sbt ...
+2023.09.25 09:11:24 INFO  [info] loading project definition from /Users/krobuncal/Documents/krobuncal-photo-sharing/project/project
+2023.09.25 09:11:31 INFO  [success] Generated .bloop/krobuncal-photo-sharing-build-build.json
+2023.09.25 09:11:31 INFO  [success] Total time: 6 s, completed 09 25, 23 9:11:31 AM
+2023.09.25 09:11:31 INFO  [info] loading settings for project krobuncal-photo-sharing-build from metals.sbt,plugins.sbt ...
+2023.09.25 09:11:32 INFO  [info] loading project definition from /Users/krobuncal/Documents/krobuncal-photo-sharing/project
+2023.09.25 09:11:34 INFO  [success] Generated .bloop/krobuncal-photo-sharing-build.json
+2023.09.25 09:11:34 INFO  [success] Total time: 2 s, completed 09 25, 23 9:11:34 AM
+2023.09.25 09:11:36 INFO  [info] loading settings for project root from build.sbt ...
+2023.09.25 09:11:36 INFO  [info]   __              __
+2023.09.25 09:11:36 INFO  [info]   \ \     ____   / /____ _ __  __
+2023.09.25 09:11:36 INFO  [info]    \ \   / __ \ / // __ `// / / /
+2023.09.25 09:11:36 INFO  [info]    / /  / /_/ // // /_/ // /_/ /
+2023.09.25 09:11:36 INFO  [info]   /_/  / .___//_/ \__,_/ \__, /
+2023.09.25 09:11:36 INFO  [info]       /_/               /____/
+2023.09.25 09:11:36 INFO  [info] 
+2023.09.25 09:11:36 INFO  [info] Version 2.8.20 running Java 1.8.0_382
+2023.09.25 09:11:36 INFO  [info] 
+2023.09.25 09:11:36 INFO  [info] Play is run entirely by the community. Please consider contributing and/or donating:
+2023.09.25 09:11:36 INFO  [info] https://www.playframework.com/sponsors
+2023.09.25 09:11:36 INFO  [info] 
+2023.09.25 09:11:40 INFO  [success] Generated .bloop/root-test.json
+2023.09.25 09:11:40 INFO  [success] Generated .bloop/root.json
+2023.09.25 09:11:40 INFO  [success] Total time: 2 s, completed 09 25, 23 9:11:40 AM
+2023.09.25 09:11:40 INFO  time: ran 'sbt bloopInstall' in 28s
+2023.09.25 09:11:40 INFO  Disconnecting from Bloop session...
+2023.09.25 09:11:40 INFO  Shut down connection with build server.
+2023.09.25 09:11:40 INFO  Shut down connection with build server.
+2023.09.25 09:11:40 INFO  Shut down connection with build server.
+2023.09.25 09:11:40 INFO  Attempting to connect to the build server...
+2023.09.25 09:11:40 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home defined at /Users/krobuncal/.bloop/bloop.json
+2023.09.25 09:11:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/krobuncal/Documents/krobuncal-photo-sharing/.metals/bsp.trace.json or /Users/krobuncal/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.09.25 09:11:40 INFO  Attempting to connect to the build server...
+2023.09.25 09:11:40 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home defined at /Users/krobuncal/.bloop/bloop.json
+2023.09.25 09:11:40 INFO  Attempting to connect to the build server...
+2023.09.25 09:11:40 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home defined at /Users/krobuncal/.bloop/bloop.json
+2023.09.25 09:11:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/krobuncal/Documents/krobuncal-photo-sharing/project/.metals/bsp.trace.json or /Users/krobuncal/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.09.25 09:11:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/krobuncal/Documents/krobuncal-photo-sharing/project/project/.metals/bsp.trace.json or /Users/krobuncal/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.09.25 09:11:40 INFO  time: Connected to build server in 0.19s
+2023.09.25 09:11:40 INFO  Connected to Build server: Bloop v1.5.8
+2023.09.25 09:11:40 INFO  time: Imported build in 0.17s
+2023.09.25 09:11:43 INFO  time: indexed workspace in 2.52s
+2023.09.25 09:12:15 INFO  Deduplicating compilation of root from bsp client 'Metals 1.0.1' (since 34.924s)
+2023.09.25 09:12:15 INFO  compiling root (13 scala sources and 1 java source)
+2023.09.25 09:12:15 INFO  compiling root (13 scala sources and 1 java source)
+2023.09.25 09:12:16 INFO  time: compiled root in 1.08s
+2023.09.25 09:12:40 INFO  compiling root (13 scala sources and 1 java source)
+2023.09.25 09:12:40 INFO  time: compiled root in 0.98s
+2023.09.25 09:14:13 INFO  compiling root (13 scala sources and 1 java source)
+2023.09.25 09:14:15 INFO  time: compiled root in 1.59s
+2023.09.25 09:15:33 INFO  compiling root (13 scala sources and 1 java source)
+2023.09.25 09:15:46 INFO  time: compiled root in 12s
+Sep 25, 2023 9:26:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4386
+2023.09.25 09:27:08 INFO  compiling root (1 scala source)
+2023.09.25 09:27:11 INFO  time: compiled root in 2.87s
+2023.09.25 09:27:34 INFO  compiling root (1 scala source)
+2023.09.25 09:27:37 INFO  time: compiled root in 2.68s
+2023.09.25 09:27:50 INFO  compiling root (1 scala source)
+2023.09.25 09:27:51 INFO  time: compiled root in 1.54s
+2023.09.25 09:28:07 INFO  compiling root (1 scala source)
+2023.09.25 09:28:09 INFO  time: compiled root in 2.59s
+2023.09.25 09:28:55 INFO  compiling root (1 scala source)
+2023.09.25 09:28:57 INFO  time: compiled root in 1.92s
+2023.09.25 09:28:57 INFO  compiling root (1 scala source)
+2023.09.25 09:28:57 INFO  time: compiled root in 0.28s
+2023.09.25 09:29:05 INFO  compiling root (1 scala source)
+2023.09.25 09:29:07 INFO  time: compiled root in 1.96s
+2023.09.25 09:29:07 INFO  compiling root (1 scala source)
+2023.09.25 09:29:07 INFO  time: compiled root in 0.22s
+2023.09.25 09:29:12 INFO  compiling root (2 scala sources)
+2023.09.25 09:29:12 INFO  time: compiled root in 0.74s
+2023.09.25 09:29:12 INFO  compiling root (2 scala sources)
+2023.09.25 09:29:13 INFO  time: compiled root in 0.39s
+2023.09.25 09:29:17 INFO  compiling root (2 scala sources)
+2023.09.25 09:29:17 INFO  time: compiled root in 0.89s
+2023.09.25 09:30:42 INFO  compiling root (4 scala sources and 1 java source)
+2023.09.25 09:30:44 INFO  time: compiled root in 1.67s
+2023.09.25 09:30:44 INFO  compiling root (4 scala sources and 1 java source)
+2023.09.25 09:30:44 INFO  time: compiled root in 0.83s
+2023.09.25 09:30:49 INFO  compiling root (4 scala sources and 1 java source)
+2023.09.25 09:30:49 INFO  time: compiled root in 0.56s
+2023.09.25 09:31:01 INFO  compiling root (4 scala sources and 1 java source)
+2023.09.25 09:31:11 INFO  time: compiled root in 9.64s
+2023.09.25 09:31:11 INFO  compiling root (3 scala sources)
+2023.09.25 09:31:11 INFO  time: compiled root in 0.78s
+2023.09.25 09:31:30 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 09:31:33 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 09:31:35 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 09:31:36 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 09:31:37 INFO  compiling root (5 scala sources and 1 java source)
+2023.09.25 09:31:37 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 09:31:39 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 09:31:41 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 09:31:41 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 09:31:43 WARN  Using indexes to guess the definition of Post
+2023.09.25 09:31:48 INFO  time: compiled root in 11s
+2023.09.25 09:31:51 WARN  Using indexes to guess the definition of Post
+Sep 25, 2023 9:32:27 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+java.nio.file.NoSuchFileException: /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:378)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:270)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:190)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:201)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:141)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:141)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:118)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:43)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:233)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:277)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:240)
+	at scala.meta.internal.pc.HoverProvider.hoverOffset(HoverProvider.scala:99)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:22)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:307)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:146)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:132)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:231)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+Sep 25, 2023 9:32:27 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+java.nio.file.NoSuchFileException: /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:378)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:270)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:286)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:190)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:201)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:190)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:163)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:141)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:141)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:118)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:44)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:43)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:233)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:277)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:240)
+	at scala.meta.internal.pc.HoverProvider.hoverOffset(HoverProvider.scala:99)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:22)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:307)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:146)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:132)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:231)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.09.25 09:35:43 INFO  compiling root-test (1 scala source)
+2023.09.25 09:35:43 INFO  time: compiled root-test in 0.44s
+2023.09.25 09:36:14 INFO  compiling root (1 scala source)
+2023.09.25 09:36:16 INFO  time: compiled root in 2.34s
+2023.09.25 09:36:59 INFO  compiling root (1 scala source)
+2023.09.25 09:36:59 INFO  time: compiled root in 0.56s
+2023.09.25 09:37:12 INFO  compiling root (1 scala source)
+2023.09.25 09:37:15 INFO  time: compiled root in 2.53s
+2023.09.25 09:37:18 INFO  compiling root (1 scala source)
+2023.09.25 09:37:20 INFO  time: compiled root in 1.82s
+2023.09.25 09:37:45 INFO  compiling root (1 scala source)
+2023.09.25 09:37:47 INFO  time: compiled root in 2.19s
+2023.09.25 09:37:48 INFO  compiling root (1 scala source)
+2023.09.25 09:37:50 INFO  time: compiled root in 1.89s
+2023.09.25 09:37:57 INFO  compiling root (1 scala source)
+2023.09.25 09:37:57 INFO  time: compiled root in 0.44s
+2023.09.25 09:38:00 INFO  compiling root (1 scala source)
+2023.09.25 09:38:00 INFO  time: compiled root in 0.35s
+2023.09.25 09:38:05 INFO  compiling root (1 scala source)
+2023.09.25 09:38:05 INFO  time: compiled root in 0.36s
+Sep 25, 2023 9:39:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5107
+Sep 25, 2023 9:39:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5109
+2023.09.25 09:39:23 INFO  compiling root (1 scala source)
+2023.09.25 09:39:23 INFO  time: compiled root in 0.34s
+2023.09.25 09:39:35 INFO  compiling root (1 scala source)
+2023.09.25 09:39:35 INFO  time: compiled root in 0.29s
+2023.09.25 09:39:39 INFO  compiling root (1 scala source)
+2023.09.25 09:39:39 INFO  time: compiled root in 0.44s
+2023.09.25 09:40:01 INFO  compiling root (1 scala source)
+2023.09.25 09:40:01 INFO  time: compiled root in 0.24s
+2023.09.25 09:40:05 INFO  compiling root (1 scala source)
+2023.09.25 09:40:05 INFO  time: compiled root in 0.31s
+2023.09.25 09:40:15 INFO  compiling root (1 scala source)
+2023.09.25 09:40:15 INFO  time: compiled root in 0.77s
+2023.09.25 09:40:26 INFO  compiling root (1 scala source)
+2023.09.25 09:40:29 INFO  time: compiled root in 2.33s
+2023.09.25 09:40:37 INFO  compiling root (1 scala source)
+2023.09.25 09:40:37 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 09:40:39 INFO  time: compiled root in 2.31s
+2023.09.25 09:40:57 INFO  compiling root-test (1 scala source)
+2023.09.25 09:40:57 INFO  time: compiled root-test in 0.68s
+2023.09.25 09:42:11 INFO  compiling root (3 scala sources)
+2023.09.25 09:42:15 INFO  time: compiled root in 3.46s
+2023.09.25 09:42:15 INFO  compiling root (1 java source)
+2023.09.25 09:42:16 INFO  time: compiled root in 1.68s
+2023.09.25 09:42:18 INFO  compiling root-test (1 scala source)
+2023.09.25 09:42:18 INFO  time: compiled root-test in 0.66s
+2023.09.25 09:42:18 INFO  compiling root-test (1 scala source)
+2023.09.25 09:42:19 INFO  time: compiled root-test in 0.29s
+2023.09.25 09:43:38 INFO  compiling root (1 scala source)
+2023.09.25 09:43:40 INFO  time: compiled root in 2.2s
+2023.09.25 09:44:42 INFO  compiling root (1 scala source)
+2023.09.25 09:44:44 INFO  time: compiled root in 2.15s
+2023.09.25 09:44:47 INFO  compiling root (3 scala sources)
+2023.09.25 09:44:54 INFO  time: compiled root in 7.09s
+2023.09.25 09:44:54 INFO  compiling root (1 java source)
+2023.09.25 09:44:57 INFO  time: compiled root in 2.12s
+2023.09.25 09:50:19 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 09:50:21 INFO  compiling root (1 scala source)
+2023.09.25 09:50:24 INFO  time: compiled root in 2.2s
+Sep 25, 2023 9:54:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5647
+2023.09.25 09:59:18 INFO  compiling root (1 scala source)
+2023.09.25 09:59:21 INFO  time: compiled root in 2.84s
+2023.09.25 10:04:01 INFO  compiling root (1 scala source)
+2023.09.25 10:04:04 INFO  time: compiled root in 3.71s
+2023.09.25 10:06:59 INFO  compiling root (1 scala source)
+2023.09.25 10:06:59 INFO  time: compiled root in 0.55s
+2023.09.25 10:07:00 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:07:02 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:07:03 INFO  compiling root (1 scala source)
+2023.09.25 10:07:02 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:07:05 INFO  time: compiled root in 2.31s
+2023.09.25 10:07:05 INFO  compiling root (1 scala source)
+2023.09.25 10:07:07 INFO  time: compiled root in 1.75s
+2023.09.25 10:07:18 INFO  compiling root (1 scala source)
+2023.09.25 10:07:18 INFO  time: compiled root in 0.44s
+2023.09.25 10:07:19 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:07:23 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:07:24 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:07:25 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:07:26 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:07:28 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:07:29 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:07:31 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:07:31 INFO  compiling root (1 scala source)
+2023.09.25 10:07:31 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:07:34 INFO  time: compiled root in 2.57s
+2023.09.25 10:08:22 INFO  compiling root (1 scala source)
+2023.09.25 10:08:23 INFO  time: compiled root in 1.5s
+2023.09.25 10:08:29 INFO  compiling root (1 scala source)
+2023.09.25 10:08:33 INFO  time: compiled root in 3.7s
+2023.09.25 10:09:21 INFO  compiling root (1 scala source)
+2023.09.25 10:09:23 INFO  time: compiled root in 1.82s
+2023.09.25 10:09:37 INFO  compiling root (1 scala source)
+2023.09.25 10:09:37 INFO  time: compiled root in 0.28s
+2023.09.25 10:11:22 INFO  compiling root (1 scala source)
+2023.09.25 10:11:22 INFO  time: compiled root in 0.64s
+2023.09.25 10:11:41 INFO  compiling root (1 scala source)
+2023.09.25 10:11:41 INFO  time: compiled root in 0.41s
+2023.09.25 10:12:03 INFO  compiling root (1 scala source)
+2023.09.25 10:12:05 INFO  time: compiled root in 2.09s
+2023.09.25 10:12:05 INFO  compiling root (1 scala source)
+2023.09.25 10:12:05 INFO  time: compiled root in 0.93s
+2023.09.25 10:13:51 INFO  compiling root (1 scala source)
+2023.09.25 10:13:51 INFO  time: compiled root in 0.41s
+2023.09.25 10:14:03 INFO  compiling root (1 scala source)
+2023.09.25 10:14:03 INFO  time: compiled root in 0.39s
+2023.09.25 10:14:25 INFO  compiling root (1 scala source)
+2023.09.25 10:14:28 INFO  time: compiled root in 2.35s
+2023.09.25 10:14:28 INFO  compiling root (1 scala source)
+2023.09.25 10:14:28 INFO  time: compiled root in 0.96s
+2023.09.25 10:14:31 INFO  compiling root (1 scala source)
+2023.09.25 10:14:31 INFO  time: compiled root in 0.58s
+2023.09.25 10:14:38 INFO  compiling root (1 scala source)
+2023.09.25 10:14:38 INFO  time: compiled root in 0.24s
+2023.09.25 10:14:48 INFO  compiling root (1 scala source)
+2023.09.25 10:14:51 INFO  time: compiled root in 3.76s
+2023.09.25 10:17:23 INFO  compiling root (1 scala source)
+2023.09.25 10:17:26 INFO  time: compiled root in 2.99s
+2023.09.25 10:17:27 INFO  compiling root (1 scala source)
+2023.09.25 10:17:29 INFO  time: compiled root in 1.9s
+2023.09.25 10:17:54 INFO  compiling root (1 scala source)
+2023.09.25 10:17:54 INFO  time: compiled root in 0.3s
+2023.09.25 10:18:01 INFO  compiling root (1 scala source)
+2023.09.25 10:18:01 INFO  time: compiled root in 0.38s
+2023.09.25 10:18:25 INFO  compiling root (1 scala source)
+2023.09.25 10:18:25 INFO  time: compiled root in 0.28s
+2023.09.25 10:18:34 INFO  compiling root (1 scala source)
+2023.09.25 10:18:36 INFO  time: compiled root in 2.12s
+2023.09.25 10:18:46 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:18:47 INFO  compiling root (1 scala source)
+2023.09.25 10:18:49 INFO  time: compiled root in 2.3s
+2023.09.25 10:20:08 INFO  compiling root (1 scala source)
+2023.09.25 10:20:10 INFO  time: compiled root in 2.26s
+2023.09.25 10:20:48 INFO  compiling root (1 scala source)
+2023.09.25 10:20:48 INFO  time: compiled root in 0.34s
+2023.09.25 10:20:56 INFO  compiling root (1 scala source)
+2023.09.25 10:20:56 INFO  time: compiled root in 0.34s
+2023.09.25 10:20:59 INFO  compiling root (1 scala source)
+2023.09.25 10:21:01 INFO  time: compiled root in 1.84s
+2023.09.25 10:21:26 INFO  compiling root (1 scala source)
+2023.09.25 10:21:26 INFO  time: compiled root in 0.46s
+2023.09.25 10:23:23 INFO  compiling root (1 scala source)
+2023.09.25 10:23:23 INFO  time: compiled root in 0.18s
+2023.09.25 10:23:39 INFO  compiling root (1 scala source)
+2023.09.25 10:23:39 INFO  time: compiled root in 0.34s
+2023.09.25 10:23:43 INFO  compiling root (1 scala source)
+2023.09.25 10:23:43 INFO  time: compiled root in 0.43s
+2023.09.25 10:23:54 INFO  compiling root (1 scala source)
+2023.09.25 10:23:54 INFO  time: compiled root in 0.49s
+2023.09.25 10:24:11 INFO  compiling root (1 scala source)
+2023.09.25 10:24:11 INFO  time: compiled root in 0.35s
+2023.09.25 10:24:15 INFO  compiling root (1 scala source)
+2023.09.25 10:24:15 INFO  time: compiled root in 0.28s
+2023.09.25 10:24:20 INFO  compiling root (1 scala source)
+2023.09.25 10:24:20 INFO  time: compiled root in 0.29s
+2023.09.25 10:24:59 INFO  compiling root (2 scala sources)
+2023.09.25 10:24:59 INFO  time: compiled root in 0.5s
+2023.09.25 10:25:00 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:25:05 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:25:07 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:25:09 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:25:10 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:25:11 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:25:12 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:25:13 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:25:17 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:25:18 INFO  compiling root (2 scala sources)
+2023.09.25 10:25:18 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:25:18 INFO  time: compiled root in 0.61s
+2023.09.25 10:25:19 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:25:47 INFO  compiling root (2 scala sources)
+2023.09.25 10:25:47 INFO  time: compiled root in 0.16s
+2023.09.25 10:26:01 INFO  compiling root (2 scala sources)
+2023.09.25 10:26:01 INFO  time: compiled root in 0.7s
+2023.09.25 10:26:12 INFO  compiling root (2 scala sources)
+2023.09.25 10:26:12 INFO  time: compiled root in 0.4s
+2023.09.25 10:26:32 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:27:03 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:27:43 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:27:51 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:28:00 INFO  compiling root (2 scala sources)
+2023.09.25 10:28:00 INFO  time: compiled root in 0.53s
+2023.09.25 10:28:34 INFO  compiling root (2 scala sources)
+2023.09.25 10:28:34 INFO  time: compiled root in 0.42s
+2023.09.25 10:28:51 INFO  compiling root (2 scala sources)
+2023.09.25 10:28:51 INFO  time: compiled root in 0.63s
+2023.09.25 10:29:02 INFO  compiling root (2 scala sources)
+2023.09.25 10:29:02 INFO  time: compiled root in 0.48s
+2023.09.25 10:29:10 INFO  compiling root (2 scala sources)
+2023.09.25 10:29:10 INFO  time: compiled root in 0.26s
+2023.09.25 10:29:12 INFO  compiling root (2 scala sources)
+2023.09.25 10:29:12 INFO  time: compiled root in 0.52s
+2023.09.25 10:29:27 INFO  compiling root (2 scala sources)
+2023.09.25 10:29:27 INFO  time: compiled root in 0.49s
+2023.09.25 10:29:31 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:29:33 INFO  compiling root (2 scala sources)
+2023.09.25 10:29:34 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/ImageRepo.scala
+2023.09.25 10:29:33 INFO  time: compiled root in 0.57s
+2023.09.25 10:29:46 INFO  compiling root (2 scala sources)
+2023.09.25 10:29:47 INFO  time: compiled root in 1.16s
+2023.09.25 10:29:54 INFO  compiling root (2 scala sources)
+2023.09.25 10:29:54 INFO  time: compiled root in 0.18s
+2023.09.25 10:30:07 INFO  compiling root (2 scala sources)
+2023.09.25 10:30:07 INFO  time: compiled root in 0.47s
+2023.09.25 10:30:12 INFO  compiling root (2 scala sources)
+2023.09.25 10:30:14 INFO  time: compiled root in 2.35s
+2023.09.25 10:30:34 ERROR Can't run javac on /var/folders/qr/xxsj3hbx5k7fbqz50mk_xtnh0000gp/T/metals-javac-semanticdb6507805889316943283/source/UUID.java with options: [-cp
+/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.9.5/semanticdb-javac-0.9.5.jar:/Users/krobuncal/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.9.5/semanticdb-javac-0.9.5.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/twirl-api_2.13/1.5.1/twirl-api_2.13-1.5.1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-server_2.13/2.8.20/play-server_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-logback_2.13/2.8.20/play-logback_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-akka-http-server_2.13/2.8.20/play-akka-http-server_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/filters-helpers_2.13/2.8.20/filters-helpers_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-guice_2.13/2.8.20/play-guice_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-slick_2.13/5.0.0/play-slick_2.13-5.0.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/h2database/h2/1.4.200/h2-1.4.200.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.5.1/postgresql-42.5.1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/hasher_2.13/1.2.2/hasher_2.13-1.2.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/1.3.1/scala-xml_2.13-1.3.1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play_2.13/2.8.20/play_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.2.12/logback-classic-1.2.12.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-streams_2.13/2.8.20/play-streams_2.13-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.1.15/akka-http-core_2.13-10.1.15.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/inject/guice/4.2.3/guice-4.2.3.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/inject/extensions/guice-assistedinject/4.2.3/guice-assistedinject-4.2.3.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_2.13/3.3.2/slick_2.13-3.3.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-hikaricp_2.13/3.3.2/slick-hikaricp_2.13-3.3.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.13/2.8.0/play-jdbc-api_2.13-2.8.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/build-link/2.8.20/build-link-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/jul-to-slf4j/1.7.36/jul-to-slf4j-1.7.36.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.36/jcl-over-slf4j-1.7.36.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor-typed_2.13/2.6.21/akka-actor-typed_2.13-2.6.21.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-slf4j_2.13/2.6.21/akka-slf4j_2.13-2.6.21.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-serialization-jackson_2.13/2.6.21/akka-serialization-jackson_2.13-2.6.21.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.4/jackson-core-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.4/jackson-annotations-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.4/jackson-datatype-jdk8-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.4/jackson-datatype-jsr310-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.4/jackson-databind-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-json_2.13/2.8.2/play-json_2.13-2.8.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/30.1.1-jre/guava-30.1.1-jre.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/jsonwebtoken/jjwt/0.9.1/jjwt-0.9.1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jakarta/transaction/jakarta.transaction-api/1.3.3/jakarta.transaction-api-1.3.3.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.2/scala-java8-compat_2.13-1.0.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/qos/logback/logback-core/1.2.12/logback-core-1.2.12.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.1.15/akka-parsing_2.13-10.1.15.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.0.0/scala-collection-compat_2.13-2.0.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.8.20/play-exceptions-2.8.20.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.4/jackson-module-parameter-names-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.11.4/jackson-dataformat-cbor-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.11.4/jackson-module-scala_2.13-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-functional_2.13/2.8.2/play-functional_2.13-2.8.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.12/scala-reflect-2.13.12.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.5.1/error_prone_annotations-2.5.1.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.11.4/jackson-module-paranamer-2.11.4.jar:/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.jar
+-d
+/var/folders/qr/xxsj3hbx5k7fbqz50mk_xtnh0000gp/T/metals-javac-semanticdb6507805889316943283/target
+-Xplugin:semanticdb -sourceroot:/var/folders/qr/xxsj3hbx5k7fbqz50mk_xtnh0000gp/T/metals-javac-semanticdb6507805889316943283/source -targetroot:/var/folders/qr/xxsj3hbx5k7fbqz50mk_xtnh0000gp/T/metals-javac-semanticdb6507805889316943283/target]
+java.lang.NoClassDefFoundError: com/sun/source/util/JavacTask
+	at scala.meta.internal.pc.JavaMetalsGlobal$.compilationTask(JavaMetalsGlobal.scala:69)
+	at scala.meta.internal.metals.JavaInteractiveSemanticdb.textDocument(JavaInteractiveSemanticdb.scala:78)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$compile$2(InteractiveSemanticdbs.scala:166)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.compile(InteractiveSemanticdbs.scala:166)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$3(InteractiveSemanticdbs.scala:93)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$1(InteractiveSemanticdbs.scala:93)
+	at java.util.HashMap.compute(HashMap.java:1198)
+	at java.util.Collections$SynchronizedMap.compute(Collections.java:2684)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:89)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:63)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$didOpen$3(MetalsLspService.scala:1001)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+
+2023.09.25 10:30:34 WARN  Running javac-semanticdb failed for jar:file:///opt/local/sdkman/candidates/java/current/src.zip!/java/util/UUID.java. Output:
+
+2023.09.25 10:37:48 INFO  compiling root (1 scala source)
+2023.09.25 10:37:52 INFO  time: compiled root in 3.53s
+2023.09.25 10:37:52 INFO  compiling root (1 scala source)
+2023.09.25 10:37:52 INFO  time: compiled root in 0.83s
+2023.09.25 10:37:53 INFO  compiling root (1 scala source)
+2023.09.25 10:37:53 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/PostRepo.scala
+2023.09.25 10:37:53 INFO  time: compiled root in 0.52s
+2023.09.25 10:37:53 INFO  compiling root (1 scala source)
+2023.09.25 10:37:54 INFO  time: compiled root in 1.01s
+2023.09.25 10:38:26 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:38:26 INFO  compiling root (1 scala source)
+2023.09.25 10:38:26 INFO  time: compiled root in 0.41s
+2023.09.25 10:38:27 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:38:35 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:38:36 INFO  compiling root (1 scala source)
+2023.09.25 10:38:36 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:38:36 INFO  time: compiled root in 0.47s
+2023.09.25 10:38:37 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:38:40 INFO  compiling root (1 scala source)
+2023.09.25 10:38:40 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:38:42 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:38:42 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/PostImageController.scala
+2023.09.25 10:38:43 INFO  time: compiled root in 2.89s
+2023.09.25 10:41:38 INFO  compiling root (1 scala source)
+2023.09.25 10:41:38 INFO  time: compiled root in 0.31s
+2023.09.25 10:43:07 WARN  no build target for: /Users/krobuncal/Documents/krobuncal-photo-sharing/build.sc
+2023.09.25 10:43:53 INFO  time: code lens generation in 1.11s
+2023.09.25 10:48:08 INFO  compiling root (1 scala source)
+2023.09.25 10:48:08 INFO  time: compiled root in 0.62s
+2023.09.25 10:48:19 INFO  compiling root (1 scala source)
+2023.09.25 10:48:19 INFO  time: compiled root in 0.35s
+2023.09.25 10:50:31 INFO  compiling root (1 scala source)
+2023.09.25 10:50:31 INFO  time: compiled root in 0.38s
+2023.09.25 10:50:37 INFO  compiling root (1 scala source)
+2023.09.25 10:50:37 INFO  time: compiled root in 0.45s
+2023.09.25 10:52:26 INFO  compiling root (1 scala source)
+2023.09.25 10:52:26 INFO  time: compiled root in 0.4s
+2023.09.25 10:52:35 INFO  compiling root (2 scala sources)
+2023.09.25 10:52:35 INFO  time: compiled root in 0.29s
+2023.09.25 10:52:37 INFO  compiling root (2 scala sources)
+2023.09.25 10:52:37 INFO  time: compiled root in 0.58s
+2023.09.25 10:52:59 INFO  compiling root (2 scala sources)
+2023.09.25 10:52:59 INFO  time: compiled root in 0.66s
+2023.09.25 10:53:03 INFO  compiling root (2 scala sources)
+2023.09.25 10:53:03 INFO  time: compiled root in 0.56s
+2023.09.25 10:53:23 INFO  compiling root (2 scala sources)
+2023.09.25 10:53:23 INFO  time: compiled root in 0.37s
+2023.09.25 10:53:39 INFO  compiling root (2 scala sources)
+2023.09.25 10:53:41 INFO  time: compiled root in 2.19s
+2023.09.25 10:53:41 INFO  compiling root (3 scala sources)
+2023.09.25 10:53:43 INFO  time: compiled root in 2.25s
+2023.09.25 10:53:47 INFO  compiling root (1 scala source)
+2023.09.25 10:53:50 INFO  time: compiled root in 2.4s
+2023.09.25 10:54:13 INFO  compiling root (1 scala source)
+2023.09.25 10:54:14 INFO  time: compiled root in 1.08s
+2023.09.25 10:54:39 INFO  compiling root (2 scala sources)
+2023.09.25 10:54:39 INFO  time: compiled root in 0.39s
+2023.09.25 10:54:50 INFO  compiling root (2 scala sources)
+2023.09.25 10:54:50 INFO  time: compiled root in 0.85s
+2023.09.25 10:55:05 INFO  compiling root (2 scala sources)
+2023.09.25 10:55:05 INFO  time: compiled root in 0.41s
+2023.09.25 10:55:17 INFO  compiling root (2 scala sources)
+2023.09.25 10:55:17 INFO  time: compiled root in 0.57s
+2023.09.25 10:55:44 INFO  compiling root (2 scala sources)
+2023.09.25 10:55:44 INFO  time: compiled root in 0.46s
+2023.09.25 10:57:03 INFO  compiling root (2 scala sources)
+2023.09.25 10:57:05 INFO  time: compiled root in 1.16s
+2023.09.25 10:57:14 INFO  compiling root (2 scala sources)
+2023.09.25 10:57:14 INFO  time: compiled root in 0.72s
+2023.09.25 10:57:18 INFO  compiling root (2 scala sources)
+2023.09.25 10:57:18 INFO  time: compiled root in 0.33s
+2023.09.25 10:57:39 INFO  compiling root (2 scala sources)
+2023.09.25 10:57:41 INFO  time: compiled root in 2.27s
+2023.09.25 10:58:02 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 10:58:06 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 10:58:06 INFO  compiling root (1 scala source)
+2023.09.25 10:58:06 INFO  time: compiled root in 0.27s
+2023.09.25 10:58:07 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 10:58:16 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 10:58:17 INFO  compiling root (1 scala source)
+2023.09.25 10:58:17 INFO  time: compiled root in 0.42s
+2023.09.25 10:58:18 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 10:58:21 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 10:58:24 INFO  compiling root (1 scala source)
+2023.09.25 10:58:24 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 10:58:24 INFO  time: compiled root in 0.3s
+2023.09.25 10:58:25 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 10:58:32 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 10:59:55 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 10:59:57 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 10:59:57 INFO  compiling root (1 scala source)
+2023.09.25 10:59:57 INFO  time: compiled root in 0.25s
+2023.09.25 10:59:57 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:00:02 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:00:32 INFO  compiling root (1 scala source)
+2023.09.25 11:00:37 INFO  time: compiled root in 4.81s
+2023.09.25 11:01:07 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:01:09 INFO  compiling root (1 scala source)
+2023.09.25 11:01:09 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:01:09 INFO  time: compiled root in 0.3s
+2023.09.25 11:01:09 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:01:13 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:02:39 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:02:43 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:02:45 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:02:47 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:02:49 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:02:52 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:02:52 INFO  compiling root (1 scala source)
+2023.09.25 11:02:52 INFO  time: compiled root in 0.2s
+2023.09.25 11:02:53 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:02:53 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:02:56 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:02:57 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:02:59 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:03:00 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:03:00 INFO  compiling root (1 scala source)
+2023.09.25 11:03:01 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:03:00 INFO  time: compiled root in 0.34s
+2023.09.25 11:03:01 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:03:05 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:03:36 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:03:39 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:03:39 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:03:41 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:03:42 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:03:44 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:03:54 INFO  compiling root (1 scala source)
+2023.09.25 11:03:55 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:03:57 INFO  time: compiled root in 2.69s
+2023.09.25 11:03:57 INFO  compiling root (1 scala source)
+2023.09.25 11:03:59 INFO  time: compiled root in 1.56s
+2023.09.25 11:05:07 INFO  compiling root (1 scala source)
+2023.09.25 11:05:10 INFO  time: compiled root in 3.01s
+2023.09.25 11:05:30 INFO  compiling root (1 scala source)
+2023.09.25 11:05:33 INFO  time: compiled root in 2.13s
+2023.09.25 11:08:13 INFO  compiling root (1 scala source)
+2023.09.25 11:08:15 INFO  time: compiled root in 2.24s
+2023.09.25 11:08:15 INFO  compiling root (1 scala source)
+2023.09.25 11:08:16 INFO  time: compiled root in 1.15s
+2023.09.25 11:10:01 INFO  compiling root (1 scala source)
+2023.09.25 11:10:01 INFO  time: compiled root in 0.35s
+2023.09.25 11:10:33 INFO  compiling root (2 scala sources)
+2023.09.25 11:10:33 INFO  time: compiled root in 0.67s
+2023.09.25 11:11:50 INFO  compiling root (3 scala sources)
+2023.09.25 11:11:50 INFO  time: compiled root in 0.41s
+2023.09.25 11:11:51 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:11:52 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:11:53 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:11:53 INFO  compiling root (3 scala sources)
+2023.09.25 11:11:53 INFO  time: compiled root in 0.59s
+2023.09.25 11:11:54 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:12:18 INFO  compiling root (3 scala sources)
+2023.09.25 11:12:18 INFO  time: compiled root in 0.7s
+2023.09.25 11:12:31 INFO  compiling root (2 scala sources)
+2023.09.25 11:12:31 INFO  time: compiled root in 0.45s
+2023.09.25 11:15:09 INFO  compiling root (3 scala sources)
+2023.09.25 11:15:09 INFO  time: compiled root in 0.68s
+2023.09.25 11:15:31 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:15:43 INFO  compiling root (3 scala sources)
+2023.09.25 11:15:43 INFO  time: compiled root in 0.24s
+2023.09.25 11:15:48 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:15:52 INFO  compiling root (3 scala sources)
+2023.09.25 11:15:52 INFO  time: compiled root in 0.5s
+2023.09.25 11:15:56 INFO  compiling root (3 scala sources)
+2023.09.25 11:15:56 INFO  time: compiled root in 0.5s
+2023.09.25 11:16:06 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:16:31 INFO  compiling root (6 scala sources)
+2023.09.25 11:16:32 INFO  time: compiled root in 1.21s
+2023.09.25 11:16:36 INFO  compiling root (6 scala sources)
+2023.09.25 11:16:36 INFO  time: compiled root in 1s
+2023.09.25 11:16:42 INFO  compiling root (6 scala sources)
+2023.09.25 11:16:42 INFO  time: compiled root in 0.18s
+2023.09.25 11:16:43 INFO  compiling root (6 scala sources)
+2023.09.25 11:16:43 INFO  time: compiled root in 0.66s
+2023.09.25 11:16:48 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:17:20 INFO  compiling root (6 scala sources)
+2023.09.25 11:17:20 INFO  time: compiled root in 0.61s
+2023.09.25 11:17:25 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:17:59 INFO  compiling root (6 scala sources)
+2023.09.25 11:17:59 INFO  time: compiled root in 0.7s
+2023.09.25 11:18:20 INFO  compiling root (6 scala sources)
+2023.09.25 11:18:20 INFO  time: compiled root in 0.59s
+2023.09.25 11:18:32 INFO  compiling root (6 scala sources)
+2023.09.25 11:18:32 INFO  time: compiled root in 0.68s
+2023.09.25 11:18:37 INFO  compiling root (6 scala sources)
+2023.09.25 11:18:37 INFO  time: compiled root in 0.56s
+2023.09.25 11:18:40 INFO  compiling root (6 scala sources)
+2023.09.25 11:18:40 INFO  time: compiled root in 0.55s
+2023.09.25 11:18:56 INFO  compiling root (6 scala sources)
+2023.09.25 11:18:56 INFO  time: compiled root in 0.71s
+2023.09.25 11:19:00 INFO  compiling root (6 scala sources)
+2023.09.25 11:19:00 INFO  time: compiled root in 0.29s
+2023.09.25 11:19:47 INFO  compiling root (6 scala sources)
+2023.09.25 11:19:47 INFO  time: compiled root in 0.6s
+2023.09.25 11:20:06 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:20:18 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:20:48 INFO  compiling root (6 scala sources)
+2023.09.25 11:20:48 INFO  time: compiled root in 0.98s
+2023.09.25 11:21:00 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:21:36 WARN  Using indexes to guess the definition of getComments
+2023.09.25 11:21:55 INFO  compiling root (6 scala sources)
+2023.09.25 11:21:56 INFO  time: compiled root in 1.21s
+2023.09.25 11:22:37 INFO  compiling root (6 scala sources)
+2023.09.25 11:22:37 INFO  time: compiled root in 0.88s
+2023.09.25 11:22:55 INFO  compiling root (6 scala sources)
+2023.09.25 11:22:55 INFO  time: compiled root in 0.7s
+2023.09.25 11:23:50 INFO  compiling root (6 scala sources)
+2023.09.25 11:23:50 INFO  time: compiled root in 0.85s
+2023.09.25 11:24:53 INFO  compiling root (6 scala sources)
+2023.09.25 11:24:53 INFO  time: compiled root in 0.85s
+2023.09.25 11:25:28 INFO  compiling root (6 scala sources)
+2023.09.25 11:25:28 INFO  time: compiled root in 0.89s
+2023.09.25 11:25:38 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:25:42 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:25:47 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:25:47 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/models/repo/CommentRepo.scala
+2023.09.25 11:25:47 INFO  compiling root (5 scala sources)
+2023.09.25 11:25:47 INFO  time: compiled root in 0.57s
+2023.09.25 11:25:56 INFO  compiling root (5 scala sources)
+2023.09.25 11:25:56 INFO  time: compiled root in 0.71s
+2023.09.25 11:26:40 INFO  compiling root (5 scala sources)
+2023.09.25 11:26:40 INFO  time: compiled root in 0.85s
+2023.09.25 11:27:06 INFO  compiling root (5 scala sources)
+2023.09.25 11:27:06 INFO  time: compiled root in 0.46s
+2023.09.25 11:27:10 INFO  compiling root (5 scala sources)
+2023.09.25 11:27:10 INFO  time: compiled root in 0.68s
+2023.09.25 11:27:31 INFO  compiling root (5 scala sources)
+2023.09.25 11:27:33 INFO  time: compiled root in 1.59s
+2023.09.25 11:27:41 INFO  compiling root (2 scala sources)
+2023.09.25 11:27:41 INFO  time: compiled root in 0.91s
+2023.09.25 11:27:41 INFO  compiling root (2 scala sources)
+2023.09.25 11:27:42 INFO  time: compiled root in 0.31s
+2023.09.25 11:28:19 INFO  compiling root (2 scala sources)
+2023.09.25 11:28:25 INFO  time: compiled root in 5.28s
+2023.09.25 11:29:18 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:29:20 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:29:20 INFO  compiling root (1 scala source)
+2023.09.25 11:29:25 INFO  time: compiled root in 4.09s
+2023.09.25 11:31:56 INFO  compiling root (1 scala source)
+2023.09.25 11:32:00 INFO  time: compiled root in 4.71s
+2023.09.25 11:33:59 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:34:03 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:34:03 INFO  compiling root (1 scala source)
+2023.09.25 11:34:06 INFO  time: compiled root in 2.51s
+2023.09.25 11:34:55 INFO  compiling root (1 scala source)
+2023.09.25 11:35:01 INFO  time: compiled root in 6.88s
+2023.09.25 11:35:29 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:35:30 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:35:31 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:35:33 INFO  compiling root (1 scala source)
+2023.09.25 11:35:33 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:35:33 INFO  time: compiled root in 0.28s
+2023.09.25 11:35:33 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:35:38 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:36:08 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:36:10 INFO  compiling root (1 scala source)
+2023.09.25 11:36:10 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 11:36:15 INFO  time: compiled root in 5.25s
+2023.09.25 11:36:32 INFO  compiling root (1 scala source)
+2023.09.25 11:36:35 INFO  time: compiled root in 3.06s
+2023.09.25 11:43:22 INFO  compiling root (1 scala source)
+2023.09.25 11:43:24 INFO  time: compiled root in 2.07s
+2023.09.25 11:56:59 INFO  compiling root (1 scala source)
+2023.09.25 11:57:02 INFO  time: compiled root in 2.57s
+2023.09.25 11:57:58 INFO  compiling root (1 scala source)
+2023.09.25 11:58:00 INFO  time: compiled root in 2.5s
+2023.09.25 12:00:42 INFO  compiling root-test (1 scala source)
+2023.09.25 12:00:42 INFO  time: compiled root-test in 0.58s
+2023.09.25 12:00:42 INFO  compiling root-test (1 scala source)
+2023.09.25 12:00:43 INFO  time: compiled root-test in 0.38s
+2023.09.25 12:42:55 INFO  compiling root (1 scala source)
+2023.09.25 12:42:57 INFO  time: compiled root in 2.51s
+2023.09.25 12:43:10 INFO  compiling root (1 scala source)
+2023.09.25 12:43:12 INFO  time: compiled root in 1.71s
+2023.09.25 13:04:41 INFO  compiling root (1 scala source)
+2023.09.25 13:04:43 INFO  time: compiled root in 1.61s
+2023.09.25 13:05:16 INFO  compiling root (1 scala source)
+2023.09.25 13:05:16 INFO  time: compiled root in 0.25s
+2023.09.25 13:05:16 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:22 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:25 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:28 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:29 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:29 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:31 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:32 INFO  compiling root (1 scala source)
+2023.09.25 13:05:32 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:32 INFO  time: compiled root in 0.27s
+2023.09.25 13:05:33 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:48 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:56 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:58 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:58 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:58 INFO  compiling root (1 scala source)
+2023.09.25 13:05:58 INFO  time: compiled root in 0.23s
+2023.09.25 13:05:59 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:05:59 INFO  compiling root (1 scala source)
+2023.09.25 13:05:59 INFO  time: compiled root in 59ms
+2023.09.25 13:06:00 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:08 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:11 INFO  compiling root (1 scala source)
+2023.09.25 13:06:11 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:11 INFO  time: compiled root in 0.21s
+2023.09.25 13:06:11 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:13 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:19 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:21 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:37 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:41 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:42 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:46 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:49 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:50 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:06:58 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:07:02 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:07:05 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:07:06 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:07:10 INFO  compiling root (1 scala source)
+2023.09.25 13:07:10 INFO  time: compiled root in 0.41s
+2023.09.25 13:07:10 INFO  compiling root (1 scala source)
+2023.09.25 13:07:10 INFO  time: compiled root in 0.15s
+2023.09.25 13:07:11 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:07:12 INFO  compiling root (1 scala source)
+2023.09.25 13:07:12 INFO  time: compiled root in 0.43s
+2023.09.25 13:07:13 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:07:22 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:07:22 INFO  compiling root (1 scala source)
+2023.09.25 13:07:24 INFO  time: compiled root in 1.46s
+2023.09.25 13:07:42 INFO  compiling root (1 scala source)
+2023.09.25 13:07:42 INFO  time: compiled root in 0.29s
+2023.09.25 13:08:54 INFO  compiling root (1 scala source)
+2023.09.25 13:08:54 INFO  time: compiled root in 0.29s
+2023.09.25 13:09:05 INFO  compiling root (1 scala source)
+2023.09.25 13:09:05 INFO  time: compiled root in 0.34s
+2023.09.25 13:09:13 INFO  compiling root (1 scala source)
+2023.09.25 13:09:13 INFO  time: compiled root in 0.49s
+2023.09.25 13:09:17 INFO  compiling root (1 scala source)
+2023.09.25 13:09:19 INFO  time: compiled root in 2.17s
+2023.09.25 13:10:22 INFO  compiling root (1 scala source)
+2023.09.25 13:10:24 INFO  time: compiled root in 2.24s
+2023.09.25 13:10:24 INFO  compiling root (1 scala source)
+2023.09.25 13:10:24 INFO  time: compiled root in 0.29s
+2023.09.25 13:10:51 INFO  compiling root (1 scala source)
+2023.09.25 13:10:54 INFO  time: compiled root in 2.48s
+2023.09.25 13:10:54 INFO  compiling root (1 scala source)
+2023.09.25 13:10:54 INFO  time: compiled root in 0.21s
+2023.09.25 13:11:06 INFO  compiling root (2 scala sources)
+2023.09.25 13:11:09 INFO  time: compiled root in 3.08s
+2023.09.25 13:11:09 INFO  compiling root (1 scala source)
+2023.09.25 13:11:09 INFO  time: compiled root in 0.29s
+2023.09.25 13:11:49 INFO  compiling root (2 scala sources)
+2023.09.25 13:11:51 INFO  time: compiled root in 2.18s
+2023.09.25 13:11:51 INFO  compiling root (1 scala source)
+2023.09.25 13:11:51 INFO  time: compiled root in 0.23s
+2023.09.25 13:11:56 INFO  compiling root (2 scala sources)
+2023.09.25 13:11:58 INFO  time: compiled root in 1.94s
+2023.09.25 13:11:58 INFO  compiling root (1 scala source)
+2023.09.25 13:11:58 INFO  time: compiled root in 0.2s
+2023.09.25 13:13:03 INFO  compiling root (2 scala sources)
+2023.09.25 13:13:07 INFO  time: compiled root in 3.94s
+2023.09.25 13:13:07 INFO  compiling root (1 scala source)
+2023.09.25 13:13:07 INFO  time: compiled root in 0.2s
+2023.09.25 13:13:58 INFO  compiling root (3 scala sources)
+2023.09.25 13:13:58 INFO  time: compiled root in 0.36s
+2023.09.25 13:14:04 INFO  compiling root (3 scala sources)
+2023.09.25 13:14:06 INFO  time: compiled root in 2.07s
+2023.09.25 13:14:06 INFO  compiling root (1 scala source)
+2023.09.25 13:14:06 INFO  time: compiled root in 0.14s
+2023.09.25 13:15:20 INFO  compiling root (7 scala sources and 1 java source)
+2023.09.25 13:15:21 INFO  time: compiled root in 1.17s
+2023.09.25 13:15:46 INFO  compiling root (7 scala sources and 1 java source)
+2023.09.25 13:15:46 INFO  time: compiled root in 0.67s
+2023.09.25 13:16:09 INFO  compiling root (7 scala sources and 1 java source)
+2023.09.25 13:16:09 INFO  time: compiled root in 0.46s
+2023.09.25 13:16:22 INFO  compiling root (7 scala sources and 1 java source)
+2023.09.25 13:16:22 INFO  time: compiled root in 0.61s
+2023.09.25 13:17:09 INFO  compiling root (16 scala sources and 1 java source)
+2023.09.25 13:17:10 INFO  time: compiled root in 1.33s
+2023.09.25 13:17:10 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:17:17 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/app/controllers/HomeController.scala
+2023.09.25 13:17:34 INFO  compiling root (16 scala sources and 1 java source)
+2023.09.25 13:17:52 INFO  time: compiled root in 17s
+2023.09.25 13:18:50 INFO  compiling root (1 scala source)
+2023.09.25 13:18:52 INFO  time: compiled root in 1.47s
+2023.09.25 14:28:06 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 14:28:10 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 14:28:11 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 14:28:11 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 14:28:16 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 14:28:18 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 14:28:21 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 14:28:21 INFO  compiling root (1 scala source)
+2023.09.25 14:28:29 INFO  time: compiled root in 7.37s
+2023.09.25 14:47:42 INFO  compiling root (1 scala source)
+2023.09.25 14:47:47 INFO  time: compiled root in 4.59s
+2023.09.25 15:02:02 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:06 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:07 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:08 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:10 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:10 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:11 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:12 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:12 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:15 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:16 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:17 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:18 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:20 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:33 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:35 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:36 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:02:36 INFO  compiling root (1 scala source)
+2023.09.25 15:02:41 INFO  time: compiled root in 4.88s
+2023.09.25 15:12:15 INFO  compiling root (1 scala source)
+2023.09.25 15:12:23 INFO  time: compiled root in 7.62s
+2023.09.25 15:16:22 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:16:24 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:16:26 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:16:26 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:16:27 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:16:28 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:16:30 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:16:31 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:16:32 INFO  compiling root (1 scala source)
+2023.09.25 15:16:33 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:16:38 INFO  time: compiled root in 5.53s
+2023.09.25 15:21:34 INFO  compiling root (1 scala source)
+2023.09.25 15:21:40 INFO  time: compiled root in 6.29s
+2023.09.25 15:35:01 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:35:05 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:35:06 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:35:09 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:35:09 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:35:10 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:35:11 INFO  compiling root (1 scala source)
+2023.09.25 15:35:11 WARN  Could not load snapshot text for /Users/krobuncal/Documents/krobuncal-photo-sharing/target/scala-2.13/twirl/main/views/html/index.template.scala
+2023.09.25 15:35:17 INFO  time: compiled root in 6.42s

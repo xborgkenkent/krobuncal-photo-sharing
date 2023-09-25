@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.upload-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.main-container .content-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: center;
+    gap: 20%;
+}
+
+.main-container .content-container .description-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container .content-container .comments-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.desc {
+    font-size: larger;
+    font-weight: bold;
+    align-items: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+
+

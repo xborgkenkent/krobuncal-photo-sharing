@@ -23,6 +23,10 @@
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-akka-http-server_2.13/2.8.20/play-akka-http-server_2.13-2.8.20.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/filters-helpers_2.13/2.8.20/filters-helpers_2.13-2.8.20.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-guice_2.13/2.8.20/play-guice_2.13-2.8.20.jar",
+            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-slick_2.13/5.0.0/play-slick_2.13-5.0.0.jar",
+            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/h2database/h2/1.4.200/h2-1.4.200.jar",
+            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.5.1/postgresql-42.5.1.jar",
+            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/hasher_2.13/1.2.2/hasher_2.13-1.2.2.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/1.3.1/scala-xml_2.13-1.3.1.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play_2.13/2.8.20/play_2.13-2.8.20.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.2.12/logback-classic-1.2.12.jar",
@@ -30,6 +34,10 @@
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.1.15/akka-http-core_2.13-10.1.15.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/inject/guice/4.2.3/guice-4.2.3.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/inject/extensions/guice-assistedinject/4.2.3/guice-assistedinject-4.2.3.jar",
+            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_2.13/3.3.2/slick_2.13-3.3.2.jar",
+            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-hikaricp_2.13/3.3.2/slick-hikaricp_2.13-3.3.2.jar",
+            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.13/2.8.0/play-jdbc-api_2.13-2.8.0.jar",
+            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/build-link/2.8.20/build-link-2.8.20.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/jul-to-slf4j/1.7.36/jul-to-slf4j-1.7.36.jar",
@@ -57,8 +65,10 @@
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.1.15/akka-parsing_2.13-10.1.15.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar",
-            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.8.20/play-exceptions-2.8.20.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar",
+            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.0.0/scala-collection-compat_2.13-2.0.0.jar",
+            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0.jar",
+            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.8.20/play-exceptions-2.8.20.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.4/jackson-module-parameter-names-2.11.4.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.11.4/jackson-dataformat-cbor-2.11.4.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.11.4/jackson-module-scala_2.13-2.11.4.jar",
@@ -69,7 +79,6 @@
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
-            "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.5.1/error_prone_annotations-2.5.1.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar",
             "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar",
@@ -295,6 +304,74 @@
                     ]
                 },
                 {
+                    "organization": "com.typesafe.play",
+                    "name": "play-slick_2.13",
+                    "version": "5.0.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "play-slick_2.13",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-slick_2.13/5.0.0/play-slick_2.13-5.0.0.jar"
+                        },
+                        {
+                            "name": "play-slick_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-slick_2.13/5.0.0/play-slick_2.13-5.0.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.h2database",
+                    "name": "h2",
+                    "version": "1.4.200",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "h2",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/h2database/h2/1.4.200/h2-1.4.200.jar"
+                        },
+                        {
+                            "name": "h2",
+                            "classifier": "sources",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/h2database/h2/1.4.200/h2-1.4.200-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.postgresql",
+                    "name": "postgresql",
+                    "version": "42.5.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "postgresql",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.5.1/postgresql-42.5.1.jar"
+                        },
+                        {
+                            "name": "postgresql",
+                            "classifier": "sources",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.5.1/postgresql-42.5.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.outr",
+                    "name": "hasher_2.13",
+                    "version": "1.2.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "hasher_2.13",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/hasher_2.13/1.2.2/hasher_2.13-1.2.2.jar"
+                        },
+                        {
+                            "name": "hasher_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/hasher_2.13/1.2.2/hasher_2.13-1.2.2-sources.jar"
+                        }
+                    ]
+                },
+                {
                     "organization": "org.scala-lang.modules",
                     "name": "scala-xml_2.13",
                     "version": "1.3.1",
@@ -410,6 +487,74 @@
                             "name": "guice-assistedinject",
                             "classifier": "sources",
                             "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/inject/extensions/guice-assistedinject/4.2.3/guice-assistedinject-4.2.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe.slick",
+                    "name": "slick_2.13",
+                    "version": "3.3.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "slick_2.13",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_2.13/3.3.2/slick_2.13-3.3.2.jar"
+                        },
+                        {
+                            "name": "slick_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick_2.13/3.3.2/slick_2.13-3.3.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe.slick",
+                    "name": "slick-hikaricp_2.13",
+                    "version": "3.3.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "slick-hikaricp_2.13",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-hikaricp_2.13/3.3.2/slick-hikaricp_2.13-3.3.2.jar"
+                        },
+                        {
+                            "name": "slick-hikaricp_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/slick/slick-hikaricp_2.13/3.3.2/slick-hikaricp_2.13-3.3.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe.play",
+                    "name": "play-jdbc-api_2.13",
+                    "version": "2.8.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "play-jdbc-api_2.13",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.13/2.8.0/play-jdbc-api_2.13-2.8.0.jar"
+                        },
+                        {
+                            "name": "play-jdbc-api_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-jdbc-api_2.13/2.8.0/play-jdbc-api_2.13-2.8.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.checkerframework",
+                    "name": "checker-qual",
+                    "version": "3.8.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "checker-qual",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar"
+                        },
+                        {
+                            "name": "checker-qual",
+                            "classifier": "sources",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0-sources.jar"
                         }
                     ]
                 },
@@ -873,23 +1018,6 @@
                     ]
                 },
                 {
-                    "organization": "com.typesafe.play",
-                    "name": "play-exceptions",
-                    "version": "2.8.20",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "play-exceptions",
-                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.8.20/play-exceptions-2.8.20.jar"
-                        },
-                        {
-                            "name": "play-exceptions",
-                            "classifier": "sources",
-                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.8.20/play-exceptions-2.8.20-sources.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "com.typesafe",
                     "name": "config",
                     "version": "1.4.2",
@@ -903,6 +1031,57 @@
                             "name": "config",
                             "classifier": "sources",
                             "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang.modules",
+                    "name": "scala-collection-compat_2.13",
+                    "version": "2.0.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-collection-compat_2.13",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.0.0/scala-collection-compat_2.13-2.0.0.jar"
+                        },
+                        {
+                            "name": "scala-collection-compat_2.13",
+                            "classifier": "sources",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.0.0/scala-collection-compat_2.13-2.0.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.zaxxer",
+                    "name": "HikariCP",
+                    "version": "3.2.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "HikariCP",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0.jar"
+                        },
+                        {
+                            "name": "HikariCP",
+                            "classifier": "sources",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.typesafe.play",
+                    "name": "play-exceptions",
+                    "version": "2.8.20",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "play-exceptions",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.8.20/play-exceptions-2.8.20.jar"
+                        },
+                        {
+                            "name": "play-exceptions",
+                            "classifier": "sources",
+                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play-exceptions/2.8.20/play-exceptions-2.8.20-sources.jar"
                         }
                     ]
                 },
@@ -1068,23 +1247,6 @@
                             "name": "jsr305",
                             "classifier": "sources",
                             "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.checkerframework",
-                    "name": "checker-qual",
-                    "version": "3.8.0",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "checker-qual",
-                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0.jar"
-                        },
-                        {
-                            "name": "checker-qual",
-                            "classifier": "sources",
-                            "path": "/Users/krobuncal/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.8.0/checker-qual-3.8.0-sources.jar"
                         }
                     ]
                 },
